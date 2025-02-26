@@ -10,5 +10,6 @@ useHead({
 </script>
 
 <template>
-  <NuxtWelcome />
+ <DbTest />
 </template>
+
